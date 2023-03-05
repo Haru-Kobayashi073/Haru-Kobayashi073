@@ -6,6 +6,10 @@
   <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haru-Kobayashi073&layout=compact&theme=dracula" />
 </a>
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Haru-Kobayashi073&theme=vue)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Haru-Kobayashi073)](https://github.com/ryo-ma/github-profile-trophy)
+
 <!--
 **Haru-Kobayashi073/Haru-Kobayashi073** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
