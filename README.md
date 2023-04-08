@@ -10,6 +10,9 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Haru-Kobayashi073)](https://github.com/ryo-ma/github-profile-trophy)
 
+### Thank you for visiting me
+![Visitor Count](https://profile-counter.glitch.me/Haru-Kobayashi073/count.svg)
+
 <!--
 **Haru-Kobayashi073/Haru-Kobayashi073** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
