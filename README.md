@@ -10,11 +10,6 @@
 ![github-user-contribution](https://user-images.githubusercontent.com/103411556/236621135-bc74bc4f-1f99-43f4-b07a-18c08307edda.svg)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Haru-Kobayashi073)](https://github.com/ryo-ma/github-profile-trophy)
-
-### Thank you for visiting me
-![Visitor Count](https://profile-counter.glitch.me/Haru-Kobayashi073/count.svg)
-
-### Skill
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
@@ -30,3 +25,6 @@
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 </p>
+
+### Thank you for visiting me
+![Visitor Count](https://profile-counter.glitch.me/Haru-Kobayashi073/count.svg)
