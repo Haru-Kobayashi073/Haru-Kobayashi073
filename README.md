@@ -7,8 +7,7 @@
 </a>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Haru-Kobayashi073&theme=vue)
-<!-- ![github-user-contribution](https://user-images.githubusercontent.com/103411556/236621135-bc74bc4f-1f99-43f4-b07a-18c08307edda.svg) -->
-![Snake animation](https://raw.githubusercontent.com/Haru-Kobayashi073/Haru-Kobayashi073/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](./images/github-user-contribution%20(1).svg)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Haru-Kobayashi073)](https://github.com/ryo-ma/github-profile-trophy)
 <h3 align="left">Languages and Tools:</h3>
