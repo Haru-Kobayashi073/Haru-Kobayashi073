@@ -8,6 +8,7 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Haru-Kobayashi073&theme=vue)
 ![Snake animation](./images/github-user-contribution%20(1).svg)
+<!-- https://platane.github.io/snk/ -->
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Haru-Kobayashi073)](https://github.com/ryo-ma/github-profile-trophy)
 <h3 align="left">Languages and Tools:</h3>
