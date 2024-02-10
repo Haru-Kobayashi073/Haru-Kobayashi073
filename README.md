@@ -21,7 +21,7 @@
 
 Learned in school or personal
 
-[![My Skills](https://skillicons.dev/icons?i=ruby,rails,django,ts,nodejs,express,go&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ruby,rails,django,ts,nodejs,express,&theme=light)](https://skillicons.dev)
 
 Basic Understanding
 
@@ -29,7 +29,7 @@ Basic Understanding
 
 Used for work
 
-[![My Skills](https://skillicons.dev/icons?i=dart,flutter,firebase,git,github&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dart,flutter,go,firebase,git,github&theme=light)](https://skillicons.dev)
 
 </p>
 
