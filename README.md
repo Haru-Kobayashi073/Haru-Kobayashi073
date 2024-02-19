@@ -10,6 +10,8 @@
 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Haru-Kobayashi073&theme=vue)
+<!--START_SECTION:lapras-card-->
+<!--END_SECTION:lapras-card-->
 ![Snake animation](<./images/github-user-contribution%20(1).svg>)
 
 <!-- https://platane.github.io/snk/ -->
