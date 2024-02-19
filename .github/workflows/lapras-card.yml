@@ -18,6 +18,7 @@ jobs:
           BACKGROUND_FIRST: "#53c5f8"
           BACKGROUND_SECOND: "#00579b"
           LANG: "en"
+          UPDATE_TIME: "false"
           # 以下オプション
           # https://lapras-card-generator.vercel.app でカスタマイズしたデザインを設定可能
           # ICON_FIRST: "#030E21"
