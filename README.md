@@ -4,7 +4,7 @@
 </a>
 
 <a href="https://github.com/Haru-Kobayashi073">
-  <img align="left" height="166px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haru-Kobayashi073&layout=compact" />
+  <img align="left" height="166px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haru-Kobayashi073&layout=compact&hide=html,cmake,css,C++&langs_count=8&exclude_repo=memo,SNS_demo_App,flutter-App-frontend,flutter_pixabay,rails_7_tutorial,FlutterStreamProvider,riverpod_future_bathroom-now,q_and_a_site,micro_cms_rails_qr_app_qr_code_app_instagram_clone_flutter,flutter,create_articles_rails_app,riverpod_prototyping,flutter-api-practice,Calculator,basic_components_zenn," />
 </a>
 
 
