@@ -12,7 +12,7 @@ jobs:
     steps:
       - uses: kawamataryo/lapras-card-readme@main
         with:
-          SHARE_ID: "https://lapras.com/public/GS4EVTV"
+          SHARE_ID: "GS4EVTV"
           ICON_FIRST: "#03102f"
           ICON_SECOND: "#1688bf"
           BACKGROUND_FIRST: "#53c5f8"
