@@ -10,7 +10,7 @@ jobs:
     name: LAPRAS Card
     runs-on: ubuntu-latest
     steps:
-      - uses: kawamataryo/lapras-card-readme@v1.3.0
+      - uses: kawamataryo/lapras-card-readme@main
         with:
           SHARE_ID: "GS4EVTV"
           ICON_FIRST: "#03102f"
