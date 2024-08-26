@@ -12,7 +12,7 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Haru-Kobayashi073&theme=vue)
 
 <!--START_SECTION:lapras-card-->
-<p ><a href="https://lapras.com/public/GS4EVTV" target="_blank" rel="noopener noreferrer"><img alt="GS4EVTV's scores on LAPRAS are as follows: Engineering: 3.59 out of 5.0, Business: 3.43 out of 5.0, Influence: 3.25 out of 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.59&b=3.43&i=3.25&b1=%2353c5f8&b2=%2300579b&i1=%2303102f&i2=%231688bf&l=en" width="400" ></a></p>
+<p ><a href="https://lapras.com/public/GS4EVTV" target="_blank" rel="noopener noreferrer"><img alt="GS4EVTV's scores on LAPRAS are as follows: Engineering: 3.59 out of 5.0, Business: 3.43 out of 5.0, Influence: 3.24 out of 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.59&b=3.43&i=3.24&b1=%2353c5f8&b2=%2300579b&i1=%2303102f&i2=%231688bf&l=en" width="400" ></a></p>
 <!--END_SECTION:lapras-card-->
 
 ![Snake animation](<./images/github-user-contribution%20(1).svg>)
